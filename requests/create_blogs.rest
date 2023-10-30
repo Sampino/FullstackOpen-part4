@@ -2,10 +2,10 @@ POST http://localhost:3003/api/blogs/
 Content-Type: application/json
 
 {
-  "author": "Jack Johnson",
-  "title": "The Wisdom of Nature",
-  "url": "www.wisdomofnature.com",
-  "upvotes": "34"
+  "author": "Martin Luter King",
+  "title": "Testo",
+  "url": "bingo",
+  "upvotes": 34
 }
 
 
